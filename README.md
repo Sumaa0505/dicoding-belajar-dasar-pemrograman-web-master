@@ -1,4 +1,4 @@
-# [melajah.id](https://melajah.id)
+# [epochi.id](https://epochi.id)
 Project ini adalah Submission dari materi [Belajar Dasar Pemrograman Web](https://www.dicoding.com/academies/123).
 
 ### Preview
